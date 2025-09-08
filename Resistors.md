@@ -100,20 +100,20 @@ Red (2) – Violet (7) – Brown (×10) – Gold (±5%) → **270 Ω ±5%**
 
 * **Series:**
 
-  $$
-  R_{total} = R_1 + R_2 + R_3 ...
-  $$
+
+<img src="equation_png/Resistor_Series_Formula.png">
+
+
+
 * **Parallel:**
 
-  $$
-  \frac{1}{R_{total}} = \frac{1}{R_1} + \frac{1}{R_2} + ...
-  $$
+
+<img src="equation_png/Resistor_Parallel_Formula.png">
 
 
-$ \frac{1}{R_{\text{total}}} = \frac{1}{R_1} + \frac{1}{R_2} $
 
 
-![equation](https://latex.codecogs.com/png.latex?\frac{1}{R_{\text{total}}}=\frac{1}{R_1}+\frac{1}{R_2}+\cdots)
+
 
 
 ---
