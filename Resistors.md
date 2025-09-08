@@ -50,6 +50,43 @@ $$
    * **NTC/PTC Thermistors:** Change resistance with temperature.
    * **Varistor (MOV):** Protects circuits from voltage spikes.
 
+
+## 🧩 Types of Resistors
+
+| Type | Example | Use |
+|------|---------|-----|
+| **Fixed** | Carbon film, Metal film, Wire-wound | General purpose, stable resistance |
+| **Variable** | Potentiometer, Rheostat | Volume control, brightness, tuning |
+| **Special** | LDR, NTC/PTC Thermistor, Varistor (MOV) | Light sensors, temperature sensors, surge protection |
+| **SMD** | Surface mount resistors | Modern compact circuits |
+| **Precision** | High accuracy resistors | Measurement and instrumentation |
+
+
+
+## 🎨 Resistor Color Code
+
+**4-Band Color Chart:**
+
+| Color | Digit | Multiplier | Tolerance |
+|-------|-------|------------|-----------|
+| Black | 0 | ×1 Ω | — |
+| Brown | 1 | ×10 Ω | ±1% |
+| Red   | 2 | ×100 Ω | ±2% |
+| Orange| 3 | ×1k Ω | — |
+| Yellow| 4 | ×10k Ω | — |
+| Green | 5 | ×100k Ω | ±0.5% |
+| Blue  | 6 | ×1M Ω | ±0.25% |
+| Violet| 7 | ×10M Ω | ±0.1% |
+| Gray  | 8 | ×100M Ω | ±0.05% |
+| White | 9 | ×1G Ω | — |
+| Gold  | — | ×0.1 Ω | ±5% |
+| Silver| — | ×0.01 Ω | ±10% |
+| None  | — | — | ±20% |
+
+**Example:**  
+Red (2) – Violet (7) – Brown (×10) – Gold (±5%) → **270 Ω ±5%**
+
+
 ---
 
 ### 5. **Resistor Color Code**
