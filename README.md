@@ -53,3 +53,31 @@ MIT License – free to use, share, and improve.
 
 
 
+
+
+
+```
+
+https://www.electronics-tutorials.ws/resistor/res_1.html
+
+
+
+
+
+https://www.electronics-tutorials.ws/filter/filter_1.html
+https://www.electronics-tutorials.ws/filter/filter_2.html
+https://www.electronics-tutorials.ws/filter/filter_3.html
+https://www.electronics-tutorials.ws/filter/filter_4.html
+
+
+https://www.electronics-tutorials.ws/filter/filter_8.html
+
+
+https://www.electronics-tutorials.ws/filter/second-order-filters.html
+https://www.electronics-tutorials.ws/filter/state-variable-filter.html
+https://www.electronics-tutorials.ws/filter/band-stop-filter.html
+https://www.electronics-tutorials.ws/filter/sallen-key-filter.html
+https://www.electronics-tutorials.ws/filter/decibels.html
+
+
+```
